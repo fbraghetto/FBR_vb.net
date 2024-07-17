@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("FBR"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+301279e266d5c6777af45ddce2903bb11367f79b"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+043d0110d5ac9c636646856455a5634d48a202a4"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("FBR"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("FBR"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")> 
