@@ -16,7 +16,7 @@ As Classes são:
 
 |Classe | Descrição | Link |
 |---|---|---|
-|FBR.Arquivo|Metodos relacionados a arquivos/IO tais como ler, gravar e alterar arquivos| [Documentação](documentacao_arquivo.md) |
+|FBR.Arquivo|Metodos relacionados a arquivos/IO tais como ler, gravar e alterar arquivos| [Documentação](documentacao_Arquivo.md) |
 |FBR.ConfigINI|Metodos relacionados a ler e gravar arquivos ini (texto livre)|
 |FBR.Data|Metodos relacionados a manipulação de Datas no formato Português do Brasil|
 |FBR.Numero|Metodos relacionados a manipulação de números|
